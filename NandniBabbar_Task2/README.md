@@ -17,9 +17,11 @@ The Random Password Generator helps users create secure passwords by allowing th
 
 ## 🛠️ Technologies Used
 
-* Python 3
-* Random Module
-* String Module
+- Python 3
+- Tkinter
+- Secrets Module
+- String Module
+- Regular Expressions (`re`)
 
 ## 🚀 How to Run
 
