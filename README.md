@@ -11,7 +11,7 @@ Welcome to my Oasis Infobyte Internship repository. This repository contains all
 ## 📂 Projects
 
 - ✅ Task 1 – Voice Assistant
-- ✅ Task 2 – 
+- ✅ Task 2 – Password Generator
 - ✅ Task 3 – 
 
 ## 🛠️ Technologies Used
