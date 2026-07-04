@@ -20,4 +20,4 @@ This is a simple Voice Assistant developed in Python as part of the Oasis Infoby
 
  ## Author
 
-**Nandni Babbar**
+**Nandni**
