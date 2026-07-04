@@ -4,7 +4,7 @@ Welcome to my Oasis Infobyte Internship repository. This repository contains all
 
 ## 👩‍💻 Intern Details
 
-- **Name:** Nandni Babbar
+- **Name:** Nandni 
 - **Internship:** Oasis Infobyte (OIBSIP)
 - **Domain:** Python Programming
 
