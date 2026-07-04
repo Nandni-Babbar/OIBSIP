@@ -12,7 +12,7 @@ Welcome to my Oasis Infobyte Internship repository. This repository contains all
 
 - ✅ Task 1 – Voice Assistant
 - ✅ Task 2 – Password Generator
-- ✅ Task 3 – 
+- ✅ Task 3 – Weather App
 
 ## 🛠️ Technologies Used
 
