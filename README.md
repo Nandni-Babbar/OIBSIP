@@ -20,6 +20,6 @@ Welcome to my Oasis Infobyte Internship repository. This repository contains all
 
 ## 📬 Author
 
-**Nandni Babbar**
+**Nandni**
 
 GitHub: https://github.com/Nandni-Babbar
