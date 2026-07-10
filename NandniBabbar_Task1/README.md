@@ -51,9 +51,6 @@ Through this project, I learned:
 - Error handling and debugging
 - Building interactive applications
 
-## 🎥 Project Demo
-A demonstration video of the project is included in the repository.
-
 ## 👨‍💻 Internship Details
 Internship: Python Programming Internship
 Organization: Oasis Infobyte
