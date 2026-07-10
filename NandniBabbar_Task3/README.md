@@ -23,17 +23,6 @@ The Basic Weather App allows users to check current weather conditions by enteri
 * Requests Library
 * JSON Data Handling
 
-## 📂 Project Structure
-
-```text
-Basic_Weather_App/
-│
-├── weather_app.py
-├── requirements.txt
-├── README.md
-└── screenshots/
-```
-
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
